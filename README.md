@@ -33,7 +33,7 @@
                     </style>
                     <body> 
                      
-                     <h1>Christian Angeles</h1></tr>
+                     <h1>Christian Angeles</h1>
            <ul>
            <li>
                
